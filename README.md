@@ -31,4 +31,4 @@ Optional: Extend the crowdsale contract by using OpenZeppelin.
 
 ![](Images/Sucessful_compiling_KaseiCoinCrowdsale.png)
 
-![](Images/)
+![](Images/Sucessful_compiling_KaseiCoinCrowdsaleDeployer.png)
