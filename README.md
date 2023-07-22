@@ -25,3 +25,8 @@ Deploy the crowdsale to a local blockchain.
 
 Optional: Extend the crowdsale contract by using OpenZeppelin.
 
+---
+
+![](Images/Sucessful_compiling_KaseiCoin.png)
+
+![]()
