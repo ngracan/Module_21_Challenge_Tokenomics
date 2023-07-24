@@ -26,6 +26,7 @@ Deploy the crowdsale to a local blockchain.
 Optional: Extend the crowdsale contract by using OpenZeppelin.
 
 ---
+Note: Could not get ganache and metamask configured to test application, will need to be tested at a later date.
 
 ![](Images/Sucessful_compiling_KaseiCoin.png)
 
